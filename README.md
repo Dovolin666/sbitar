@@ -1,9 +1,13 @@
-Hospital Management Web App ECIG SCHOOL, Prof YOUSS MOHAMMED
+Hospital Management Web App 
+ECIG SCHOOL, Prof YOUSS MOHAMMED
+
+
 This is a Hospital Management Web Application built using the Python framework NiceGUI for the frontend and Pony ORM for database management.
 
 The application provides an intuitive and user-friendly interface for managing hospital operations, including patient records, appointments, and staff details.
 
-Features
+Features:
+
 Patient Management: Add, edit, and manage patient records.
 Appointment Scheduling: Seamlessly schedule and track appointments.
 Staff Management: Organize and maintain staff details.
@@ -14,8 +18,6 @@ Follow these steps to set up and run the application:
 
 Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/Dovolin666/sbitar.git  
 cd sbitar  
 Set Up a Virtual Environment (Optional but Recommended):
