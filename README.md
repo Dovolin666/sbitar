@@ -19,11 +19,11 @@ Follow these steps to set up and run the application:
 Clone the Repository:
 
 git clone https://github.com/Dovolin666/sbitar.git  
-cd sbitar  
-Set Up a Virtual Environment (Optional but Recommended):
 
-pip install -r requirements.txt  
+cd sbitar  
+
 Run the Application:
+
 Execute the main.py file to start the application:
 
 
